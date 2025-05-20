@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "teclado",
+    "price": 100000
+  },
+  {
+    "title": "piano",
+    "price": 100000,
+    "id": 2
+  }
+]
